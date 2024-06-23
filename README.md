@@ -24,4 +24,4 @@ Device oluşturduğumuzda bize "deviceID" ile "secretKey" bilgileri verilir. Bu 
 const char DEVICE_LOGIN_NAME[]  = "29cea459-ca2a-46d2-9764-d117efa8445e"; //verilen deviceID buraya yazılır.  
 const char SSID[]               = "Wokwi-GUEST";    // Network SSID (name)  
 const char PASS[]               = "";    // Network password (use for WPA, or use as key for WEP)  
-const char DEVICE_KEY[]  = "TWLzEXPbHW!hNHzjOr!iQFjUN";    // verilen secretKey buraya yazılır  
+const char DEVICE_KEY[]  = "TWLzEXPbHW!hNHzjOr!iQFjUN";    // verilen secretKey buraya yazılır
