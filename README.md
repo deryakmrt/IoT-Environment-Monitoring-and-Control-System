@@ -1,11 +1,12 @@
----------DERYA NAİLİYE KIMIRTI---------   
+    Downloaded from https://wokwi.com/projects/396359293304139777
 Kullanılan kütüphaneler:  
 #include <Wire.h>  
 #include <LiquidCrystal_I2C.h>  
 #include <DHT.h>  
 #include "thingProperties.h"  
 Wokwi Proje Linki:
-Downloaded from https://wokwi.com/projects/396359293304139777
+
+
 
 Proje Çalıştırma Adımları:  
 1- Verilen wokwi linkine tıklayınız.  
